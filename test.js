@@ -1,1 +1,1 @@
-console.log("왕 왕")
+console.log("이부분을 수정합니다.")
